@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6e4088003c0ea354891dfbb8804bfcfc
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: fb74a13c12fbbfc4fb4c2c7249bda3ff
+  - enabled: 1
+    path: Assets/Scenes/Day_1.unity
+    guid: b9491ea2047076b439c0aceb6735d858
+  - enabled: 1
+    path: Assets/Scenes/Day_2.unity
+    guid: 37f3a724a71e761468b43da924567b2f
+  - enabled: 1
+    path: Assets/Scenes/Day_3.unity
+    guid: ad382fe83de17c8439ad6c717d39eea1
+  - enabled: 1
+    path: Assets/Scenes/Day_4.unity
+    guid: ecadca663191b0440bcf04154134f797
+  - enabled: 1
+    path: Assets/Scenes/Day_5.unity
+    guid: 71a3a244abccf8c4bb517923f5fedcf5
+  - enabled: 1
+    path: Assets/Scenes/Day_6.unity
+    guid: e29591c08f735444d8cb837ef81ddd5f
+  - enabled: 1
+    path: Assets/Scenes/Day_7.unity
+    guid: 7525147fdecc8544bb274d8be5d36e4f
+  - enabled: 1
+    path: Assets/Scenes/Day_8.unity
+    guid: d36b6064cc4eb0a4f945a382ed4b88c3
+  - enabled: 1
+    path: Assets/Scenes/Day_9.unity
+    guid: d62b358627a33d349b6f568d3d9f3b7f
+  - enabled: 1
+    path: Assets/Scenes/Day_10.unity
+    guid: 8013514c438815049b3f7038a3b171c4
+  - enabled: 1
+    path: Assets/Scenes/Day_11.unity
+    guid: 68c229bcec56e864e957fc63a38f6c41
+  - enabled: 1
+    path: Assets/Scenes/Day_12.unity
+    guid: e5c3d4b32864deb498da4444d9bad919
+  - enabled: 1
+    path: Assets/Scenes/Day_13.unity
+    guid: 4fd95427a676281479223d4cf9b4302d
+  - enabled: 1
+    path: Assets/Scenes/Day_EndingDecider.unity
+    guid: 7fb325c87a1d61e458f7ccc8b94d8589
+  - enabled: 1
+    path: Assets/Scenes/Spider_Ending.unity
+    guid: b5058df035ce67449b739ed8428064a7
+  - enabled: 1
+    path: Assets/Scenes/FleshEatEnding.unity
+    guid: 55a5fccac2e47e5418dff06310873062
+  - enabled: 1
+    path: Assets/Scenes/BecomeHoleEnding.unity
+    guid: 11a93d8d9644c0c4a89e970fc8f60990
+  - enabled: 1
+    path: Assets/Scenes/AscensionEnding.unity
+    guid: d1c955393ba702249836ff2f23add5a8
+  - enabled: 1
+    path: Assets/Scenes/FallbackEnding.unity
+    guid: 0ca18857f10113246b45a415622fe82e
+  m_configObjects: {}
